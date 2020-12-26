@@ -19,8 +19,12 @@ Here are some ideas to get you started:
 
 ### My Github Status
 
+* * *
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kimminwyk)](https://github.com/kimminwyk)
 
 ### Me Used Languages
+
+* * *
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimminwyk)](https://github.com/kimminwyk)
