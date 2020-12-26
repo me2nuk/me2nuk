@@ -24,3 +24,23 @@ Here are some ideas to get you started:
 ### Me Used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimminwyk)](https://github.com/kimminwyk)
+
+### Completed project
+
++ acesslogs
+
++ attefacebook
+
++ q_fran_kr_scraping
+
+### Proceeding project
+
++ autoease
+
++ DBease
+
++ pdf_analysis
+
++ clireqs
+
++ AutomaticSqli
