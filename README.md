@@ -1,21 +1,15 @@
 ## Hello ' World Guest 👋
 
-* * *
+<br>
 
-<!--
-**kimminwyk/kimminwyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align=center>
 
-Here are some ideas to get you started:
+  [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)](https://www.facebook.com/profile.php?id=100011527962164)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:kimtong6451@gmail.com)
+	
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
 
 ### My Github Status
 
@@ -24,25 +18,3 @@ Here are some ideas to get you started:
 ### Me Used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimminwyk)](https://github.com/kimminwyk)
-
-* * *
-
-### Completed project
-
-+ acesslogs
-
-+ attefacebook
-
-+ q_fran_kr_scraping
-
-### Proceeding project
-
-+ autoease
-
-+ DBease
-
-+ pdf_analysis
-
-+ clireqs
-
-+ AutomaticSqli
