@@ -2,7 +2,7 @@
 
 <br>
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=350&section=footer&text=Kimminwyk%20Github&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=310&section=footer&text=Kimminwyk%20Github&fontSize=70)
 
 <br>
 
