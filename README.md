@@ -2,7 +2,7 @@
 
 <br>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/kimminwyk)](https://github.com/kimminwyk)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=350&section=footer&text=Kimminwyk%20Github&fontSize=70)
 
 <br>
 
