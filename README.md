@@ -17,6 +17,7 @@
 
 + #### 김민욱(kimtong / kimminwyk)
 + #### [probgame wargame](http://probgame.com)
++ #### kimtong6451@gmail.com
 
 <br>
 
@@ -28,6 +29,6 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kimminwyk)](https://github.com/kimminwyk)
 
-### Me Used Languages
+### My Used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimminwyk)](https://github.com/kimminwyk)
