@@ -16,7 +16,6 @@
 </div>
 
 + #### 김민욱(kimtong / kimminwyk)
-+ #### [probgame wargame](http://probgame.com)
 + #### kimtong6451@gmail.com
 
 <br>
