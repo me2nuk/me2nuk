@@ -12,11 +12,11 @@
 	
 </div>
 
-+ #### 김민욱(me2nuk)
-+ #### kimtong6451@gmail.com
-+ #### [blog Link men2uk.com](https://me2nuk.com)
++ #### STEALIEN Security Leader(SSL) 2nd
++ #### 서울여자대학교 정보보호영재교육원 8기 교육생
 
 <hr>
 
-+ #### STEALIEN Security Leader(SSL) 2nd
-+ #### 서울여자대학교 정보보호영재교육원 8기 교육생
++ #### 김민욱(me2nuk)
++ #### kimtong6451@gmail.com
++ #### [blog Link men2uk.com](https://me2nuk.com)
