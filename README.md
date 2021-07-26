@@ -18,17 +18,3 @@
 + #### 김민욱(me2nuk)
 + #### kimtong6451@gmail.com
 + ### [blog Link men2uk.com](https://me2nuk.com)
-
-<br>
-
-* * *
-
-<br>
-
-### My Github Status
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kimminwyk)](https://github.com/kimminwyk)
-
-### My Used Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimminwyk)](https://github.com/kimminwyk)
