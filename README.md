@@ -15,8 +15,9 @@
 	
 </div>
 
-+ #### 김민욱(kimtong / kimminwyk)
++ #### 김민욱(me2nuk)
 + #### kimtong6451@gmail.com
++ ### [blog Link men2uk.com](https://me2nuk.com)
 
 <br>
 
