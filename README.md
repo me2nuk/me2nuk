@@ -12,7 +12,7 @@
 	
 </div>
 
-+ #### STEALIEN Security Leader(SSL) 2nd
++ #### STEALIEN Security Leader(SSL) 2
 + #### 서울여자대학교 정보보호영재교육원 8기 교육생
 
 <hr>
