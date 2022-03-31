@@ -12,9 +12,6 @@
 	
 </div>
 
-+ #### STEALIEN Security Leader(SSL) 2th
-+ #### 서울여자대학교 정보보호영재교육원 8기 교육생
-
 <hr>
 
 + #### 김민욱(me2nuk)
