@@ -42,10 +42,11 @@
   * [TeamH4C 2022 해킹하는 부엉이 발표자 - 웹_퍼저_찍먹한_썰.ssul](https://www.youtube.com/watch?v=RgidYMxFfkw)
   * [H4CKING GAME 문제 출제자(WEB,MISC)](https://h4ckingga.me/challenges)
   * [Power Of XX(여성해킹대회) WEB 문제 출제자 (public-connect, handling)]()
+  * Stony Brook University 화이트 해킹 중앙 동아리 Decompiler 초청 특강( 웹 해킹 기초와 입문 방법 )
 
 * * *
 
-## 수상 & CTF top
+## 수상 & CTF 참여 경험
 
   + 2020
 
@@ -55,7 +56,7 @@
 
     + Hacking Camp 22회 CTF 2th
     + Shakti CTF 6th
-    + WhiteHat Contest 청소년부 본선 4위[( 2등 3등 4등 동점 )](https://www.facebook.com/whitehatcontest/photos/pcb.1747420522110088/1747419815443492)
+    + [WhiteHat Contest 청소년부 본선 4위](https://www.facebook.com/whitehatcontest/photos/pcb.1747420522110088/1747419815443492)
     + The Hacking Championship Junior 2021 CTF 예선 3등
     + [2021 사이버가디언즈 CTF 예선 3등](https://www.facebook.com/dreamhack.io/photos/a.124467269979127/125957156496805/)
     + [제 7회 정보보호영재교육원 정보보안 경진대회 단체전 1위 (대상 교육부 장관상)](https://www.facebook.com/teamh4c/photos/a.180951688666243/4475199182574784/)
