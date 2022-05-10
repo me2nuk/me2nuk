@@ -24,7 +24,7 @@
 
   * 김민욱(MinUk Kim)
   * [Github(me2nuk)](https://github.com/me2nuk)
-  * [Email(kimtong6451@gmail.com](mailto:kimtong6451@gmail.com)
+  * [Email(kimtong6451@gmail.com)](mailto:kimtong6451@gmail.com)
   * [Facebook(me2nuk)](https://www.facebook.com/me2nuk)
   * [Instagram(kimtong6451)](https://instagram.com/kimtong6451)
   * [Twitter(me2nuk)](https://twitter.com/me2nuk)
