@@ -62,6 +62,8 @@
     + [제 7회 정보보호영재교육원 정보보안 경진대회 단체전 1위 (대상 교육부 장관상)](https://www.facebook.com/teamh4c/photos/a.180951688666243/4475199182574784/)
     + [The Hacking Championshi Junior 2021 CTF 본선 4등 ( 장려상/보안전문기업상/장학금 30만원 )](https://www.facebook.com/photo?fbid=1432603427133909&set=pcb.1432603830467202)
     + [2021 사이버가디언즈 CTF 본선 3등](https://www.facebook.com/dreamhack.io/photos/a.124467269979127/127564286336092)
+  + 2022
+ 
     + [2022 codegate CTF 본선 진출](http://codegate.org/data/attach/202203/20220301124605.jpg)
 
 * * *
