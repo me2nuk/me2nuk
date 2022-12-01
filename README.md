@@ -15,9 +15,6 @@
   [![Twitter badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/me2nuk)
   [![Linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/min-uk-kim-b570a91ba/)
 
-  
-  
-
 <hr>
 
 ## Contact
@@ -29,7 +26,6 @@
   * [Facebook](https://www.facebook.com/me2nuk)
   * [Twitter](https://twitter.com/@me2nuk)
 
-* * *
 
 ## Profile
 
@@ -38,15 +34,13 @@
  * [화이트해킹 팀 TeamH4C 팀원](https://teamh4c.com) ( 2021.03 ~ )
  * TeamH4C CTF 팀 C4C 팀장 ( 2021.03 ~ )
 
----
 
 ## Education
 
  * 2021 - 서울여자대학교 정보보호영재교육원 고등전문 B ( 2021 )
  * 2021 - STEALIEN SSL(Stealien Security Leader) 2기 ( 2021 )
  * 2022 - KITRI Best Of the Best 11th 취약점 분석 트랙 교육생 ( 2022 )
-ㅋ
----
+
 
 ## Presentation
 
@@ -55,7 +49,6 @@
  * [2022 - TeamH4C 2022 해킹하는 부엉이 발표자 - "웹_퍼저_찍먹한_썰.ssul"](https://www.youtube.com/watch?v=RgidYMxFfkw)
  * [2022 - Stony Brook University Decompiler 정보보안 동아리 웹해킹 입문 방법 초청 특강 - "웹 해킹 공부하는 방법"]()
 
----
 
 ## Organized
 
@@ -63,7 +56,6 @@
   * 2021 - Power Of XX(여성해킹대회) WEB 문제 출제자 ([public-connect](/files/pox/public-connect.png), [handling](/files/pox/handling.png))
   * 2022 - BISC( Bob Information Security Conference ) CTF 문제 출제자 ( narrow data, not feeling well )
 
----
 
 ## 수상
 
