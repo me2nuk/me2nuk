@@ -22,57 +22,100 @@
 
 ## Contact
 
-  * 김민욱(MinUk Kim)
-  * [Github(me2nuk)](https://github.com/me2nuk)
-  * [Email(kimtong6451@gmail.com)](mailto:kimtong6451@gmail.com)
-  * [Facebook(me2nuk)](https://www.facebook.com/me2nuk)
-  * [Instagram(kimtong6451)](https://instagram.com/kimtong6451)
-  * [Twitter(me2nuk)](https://twitter.com/me2nuk)
+  * Name : 김민욱(MinUk Kim) / me2nuk
+  * Email：kimtong6451@gmail.com
+  * [Linkedin](https://www.linkedin.com/in/minuk-kim-b570a91ba/)
+  * [GitHub](https://github.com/me2nuk)
+  * [Facebook](https://www.facebook.com/me2nuk)
+  * [Twitter](https://twitter.com/@me2nuk)
 
 * * *
 
 ## Profile
 
-  * TeamH4C 팀원 ( 2021.3 ~ )
-  * TeamH4C CTF팀 C4C 팀장 ( 2021.3 ~ )
-  * 2021학년도 서울여자대학교 정보보호영재교육원 고등전문 B 8기
-  * STEALIEN SSL(Stealien Security Leader) 2기
-  * KITRI 차세대 보안리더 양성 프로그램 Best Of the Best 11기
-  * [제23회 하계 HackingCamp](http://hackingcamp.org/) 발표자 - webhacking.kr 웹에킹의 접근법(장종민, 김민욱)
-  * [TeamH4C 학생용 해킹노트 온라인 컨퍼런스 발표자](https://www.facebook.com/teamh4c/photos/a.180951688666243/4371028729658497/) - [메이플에 진심일뻔한 웹쟁이가 알려주는 웹해킹 입문 스토리 발표 영상 링크](https://youtu.be/FXrE4cI_oW8)
-  * [TeamH4C 2022 해킹하는 부엉이 발표자 - 웹_퍼저_찍먹한_썰.ssul](https://www.youtube.com/watch?v=RgidYMxFfkw)
-  * [H4CKING GAME 문제 출제자(WEB,MISC)](https://h4ckingga.me/challenges)
-  * [Power Of XX(여성해킹대회) WEB 문제 출제자 (public-connect, handling)]()
-  * Stony Brook University 화이트 해킹 중앙 동아리 Decompiler 초청 특강( 웹 해킹 기초와 입문 방법 )
+ * 세명컴퓨터고등학교 스마트보안솔루션과 7기 ( 2020년 입학 )
+ * 세명컴퓨터고등학교 스마트보안솔루션과 SCA 사이버보안 동아리 **前부장**
+ * [화이트해킹 팀 TeamH4C 팀원](https://teamh4c.com) ( 2021.03 ~ )
+ * TeamH4C CTF 팀 C4C 팀장 ( 2021.03 ~ )
 
-* * *
+---
 
-## 수상 & CTF 참여 경험
+## Education
+
+ * 2021 - 서울여자대학교 정보보호영재교육원 고등전문 B ( 2021 )
+ * 2021 - STEALIEN SSL(Stealien Security Leader) 2기 ( 2021 )
+ * 2022 - KITRI Best Of the Best 11th 취약점 분석 트랙 교육생 ( 2022 )
+ㅋ
+---
+
+## Presentation
+
+ * [2021 - 제23회 하계 HackingCamp 발표자 - "webhacking.kr 웹에킹의 접근법(장종민, 김민욱)"](http://hackingcamp.org/)
+ * [2021 - TeamH4C 학생용 해킹노트 온라인 컨퍼런스 발표자 - "메이플에 진심일뻔한 웹쟁이가 알려주는 웹해킹 입문 스토리 발표 영상 링크"](https://youtu.be/FXrE4cI_oW8)
+ * [2022 - TeamH4C 2022 해킹하는 부엉이 발표자 - "웹_퍼저_찍먹한_썰.ssul"](https://www.youtube.com/watch?v=RgidYMxFfkw)
+ * [2022 - Stony Brook University Decompiler 정보보안 동아리 웹해킹 입문 방법 초청 특강 - "웹 해킹 공부하는 방법"]()
+
+---
+
+## Organized
+
+  * 2021 - [H4CKING GAME 워게임 문제 출제자(WEB,MISC)](https://h4ckingga.me/challenges)
+  * 2021 - Power Of XX(여성해킹대회) WEB 문제 출제자 ([public-connect](/files/pox/public-connect.png), [handling](/files/pox/handling.png))
+  * 2022 - BISC( Bob Information Security Conference ) CTF 문제 출제자 ( narrow data, not feeling well )
+
+---
+
+## 수상
 
   + 2020
 
-    + [The Hacking Championship Junior 2020 CTF 10th](http://www.kukinews.com/newsView/kuk202011260227)
+    + [The Hacking Championship Junior 2020 CTF 10th - "(주)이글루시큐리티 대표이사 상"](http://www.kukinews.com/newsView/kuk202011260227)
+    + [세명컴퓨터고등학교 스마트보안솔루션과 사이버가디언즈 내부 해킹 대회 1th]()
 
   + 2021
 
-    + Hacking Camp 22회 CTF 2th
-    + Shakti CTF 6th
-    + [WhiteHat Contest 청소년부 본선 4위](https://www.facebook.com/whitehatcontest/photos/pcb.1747420522110088/1747419815443492)
-    + The Hacking Championship Junior 2021 CTF 예선 3등
-    + [2021 사이버가디언즈 CTF 예선 3등](https://www.facebook.com/dreamhack.io/photos/a.124467269979127/125957156496805/)
-    + [제 7회 정보보호영재교육원 정보보안 경진대회 단체전 1위 (대상 교육부 장관상)](https://www.facebook.com/teamh4c/photos/a.180951688666243/4475199182574784/)
-    + [The Hacking Championshi Junior 2021 CTF 본선 4등 ( 장려상/보안전문기업상/장학금 30만원 )](https://www.facebook.com/photo?fbid=1432603427133909&set=pcb.1432603830467202)
-    + [2021 사이버가디언즈 CTF 본선 3등](https://www.facebook.com/dreamhack.io/photos/a.124467269979127/127564286336092)
+    + [세명컴퓨터고등학교 스마트보안솔루션과 기능경기대회 2th - "세명컴퓨터고등학교장 상"]()
+    + [세명컴퓨터고등학교 스마트보안솔루션과 SMC CTF 1th - "세명컴퓨터고등학교장 상"]()
+    + [Hacking Camp 22회 CTF 2th](/files/HackingCamp/CTF-2th.png)
+    + [제 7회 정보보호영재교육원 정보보안 경진대회 단체전 1위 - "부총리 겸 교육부 장관상" ]()
+    + [영남이공대학교 The Hacking Championship Junior CTF 4th - "스틸리언 대표 이사 상"]()
+    + [사이버가디언즈 경진대회 CTF 4th - "한국정보기술연구원장상"](https://www.facebook.com/dreamhack.io/photos/a.124467269979127/127564286336092)
+
   + 2022
- 
-    + [2022 codegate CTF 본선 진출](http://codegate.org/data/attach/202203/20220301124605.jpg)
+  
+    + [KOSPO & 교육부 정보보호 영재교육원 웹 서비스 정보보안 경진대회 최우수상 - "한국남부발전주식회사 사장 상"](https://www.kospo.co.kr/sites/kospo/popup/web_service_pop5.html)
+    + [KEPCO 한국전력공사 전력분야 실전형 사이버공격 방어훈련 청소년부 1등 및 종합 2등 - "한국전력공사 사장 상"](https://biz.newdaily.co.kr/site/data/html/2022/10/25/2022102500219.html)
+    + [중부대학교 JBU CTF 해킹 대회 장려상 - "중부대학교 총장상"]()
+    + [사이버가디언즈 경진대회 3등 우수상 - "한국정보기술연구원장상"]()
+    + [영남이공대학교 The Hacking ChampionShip Junior 우수상 - "대구디지털혁신진흥원장상"]()
+
+## CTF Finalist
+
+  + 2021
+
+    + WhiteHat Contest CTF Finalist
+    + Cyber Guardians CTF Finalist
+    + The Hacking ChampionShip Junior CTF Finalist
+    
+  + 2022
+
+    + WACON( Whitehacker Attack Contest ) CTF Finalist
+    + YISF( Youth Information Security Festival ) CTF Finalist
+    + CCE ( Cyber Conflict Exercise ) CTF Finalist
+    + WhiteHat Contest CTF Finalist
+    + Cyber Guardians CTF Finalist
+    + The Hacking ChampionShip Junior CTF Finalist
+    + Codegate CTF Finlist
 
 * * *
+
+## Bug Bounty
+
+  + [gnuboard5 /bbs/member_confirm.php Open Redirect 취약점 제보](https://github.com/gnuboard/gnuboard5/issues/126)
 
 ## Project
 
   + Web Application Vulnerability Fuzzer 개발 / SSL(Stealien Security Leader 2th)
-  + [키움증권 OpenApi 기본 사용법 가이드 작성](https://github.com/me2nuk/stockOpenAPI)
   + [Python requests 모듈 분석 및 가이드 작성](https://me2nuk.com/Python-requests-module-example/)
 
 ## 이걸 공부해보고 싶어요
