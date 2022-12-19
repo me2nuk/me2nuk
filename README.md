@@ -104,13 +104,11 @@
 ## Bug Bounty
 
   + [gnuboard5 /bbs/member_confirm.php Open Redirect 취약점 제보](https://github.com/gnuboard/gnuboard5/issues/126)
+  + Wordpress Plugins 취약점 제보
+    + CVE-2022-47449, CVE-2022-47158, CVE-2022-47173, CVE-2022-47140, CVE-2022-47145, CVE-2022-46864, CVE-2022-46858, CVE-2022-46843, CVE-2022-47441, CVE-2022-47435, CVE-2022-47437, CVE-2022-47436 ( of KITRI BOB 전자상거래플랫폼 취약점 분석 Team )
 
 ## Project
 
   + Web Application Vulnerability Fuzzer 개발 / SSL(Stealien Security Leader 2th)
   + [Python requests 모듈 분석 및 가이드 작성](https://me2nuk.com/Python-requests-module-example/)
-
-## 이걸 공부해보고 싶어요
-
-+ Python을 이용한 새로운 컴파일러 또는 인터프리터 개발 ( ex, C언어 컴파일러 )
-+ Py-Script Analysis
+  + KITRI BOB 11th ( 전자상거래플랫폼 취약점 분석 Team )
